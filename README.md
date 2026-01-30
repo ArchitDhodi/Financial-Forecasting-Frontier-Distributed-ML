@@ -274,7 +274,6 @@ This project demonstrates:
 ## Author
 
 **Archit Dhodi**
-Data Science and AI Engineer
 
 ---
 
